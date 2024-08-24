@@ -1,0 +1,2 @@
+docker_folder=~/docker
+yaml_folder=ftp://ftpServer.tld/path/to/compose
