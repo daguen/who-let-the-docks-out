@@ -28,6 +28,7 @@ fi
 
 for arg in $arguments
 do
+    arg=${arg%/} #remove trailing /
     if [[ $arg != *".yaml" ]]; then
         arg="${arg}.yaml"
     fi
