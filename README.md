@@ -60,7 +60,7 @@ export PATH=~/bin:$PATH
 ```
 
 Navigate to docker-folder and run the scripts. <br>
-Use autocomplet for container-names. Foldername or yaml-filename are exapted as arguments. <br>
+Use autocomplet for container-names. Foldername or yaml-filename are accepted as arguments. <br>
 Use no argument to list the possible arguments (and use the full list as arguments if possible)
 ```bash
 dockpull.sh 
