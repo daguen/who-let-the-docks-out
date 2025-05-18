@@ -47,7 +47,7 @@ password=johnspassword
 ## usage
 Clone this repo to get the scripts and make them executable.
 ```bash
-git clone https://github.com/retaweb/who-let-the-docks-out.git
+git clone https://github.com/daguen/who-let-the-docks-out.git
 cd who-let-the-docks-out/
 chmod +x *.sh
 ```
